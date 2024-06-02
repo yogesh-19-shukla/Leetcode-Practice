@@ -45,3 +45,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+# Math
+|  |
+| ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1303-minimum-moves-to-reach-target-score) |
+# Greedy
+|  |
+| ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1303-minimum-moves-to-reach-target-score) |
