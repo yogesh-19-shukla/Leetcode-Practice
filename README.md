@@ -37,14 +37,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Graph
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Math
 |  |
 | ------- |
@@ -53,3 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1303-minimum-moves-to-reach-target-score) |
+# Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
