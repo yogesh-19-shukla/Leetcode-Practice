@@ -106,3 +106,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
+## Sorting
+|  |
+| ------- |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
+<!---LeetCode Topics End-->
