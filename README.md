@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0118-pascals-triangle) |
@@ -140,5 +141,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
