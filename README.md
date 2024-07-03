@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0118-pascals-triangle) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
