@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
