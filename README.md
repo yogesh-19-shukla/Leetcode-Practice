@@ -241,9 +241,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
