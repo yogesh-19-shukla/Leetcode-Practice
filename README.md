@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
