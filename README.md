@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0062-unique-paths) |
+| [3462-vowels-game-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -318,4 +320,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
