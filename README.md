@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0061-rotate-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0146-lru-cache) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0733-flood-fill](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 ## Trie
@@ -304,17 +306,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0733-flood-fill) |
 ## Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bit Manipulation
 |  |
