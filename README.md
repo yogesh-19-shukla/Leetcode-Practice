@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -315,12 +317,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -333,4 +337,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
