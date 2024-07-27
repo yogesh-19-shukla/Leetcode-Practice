@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0169-majority-element) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0090-subsets-ii) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Brainteaser
 |  |
@@ -345,4 +347,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
