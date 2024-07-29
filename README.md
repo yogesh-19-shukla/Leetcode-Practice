@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1036-rotting-oranges) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
 | ------- |
