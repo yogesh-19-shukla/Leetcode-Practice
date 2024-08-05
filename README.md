@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0493-reverse-pairs) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Brainteaser
 |  |
