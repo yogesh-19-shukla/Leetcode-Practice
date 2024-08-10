@@ -13,9 +13,11 @@ public:
                 while(s.find(x+1)!=s.end()){
                     cnt++;
                     x = x+1;
-                    ans = max(ans,cnt);
+                    
                 }
+             ans = max(ans,cnt);
             }
+            
         }
         return ans;
     }
