@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0217-contains-duplicate) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0146-lru-cache) |
@@ -389,4 +391,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0937-online-stock-span) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
