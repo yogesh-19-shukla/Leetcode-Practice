@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0031-next-permutation) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0037-sudoku-solver) |
