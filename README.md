@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0075-sort-colors) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0169-majority-element) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [3462-vowels-game-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
