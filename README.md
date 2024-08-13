@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0733-flood-fill) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
@@ -359,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
