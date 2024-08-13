@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 ## Trie
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0733-flood-fill) |
 ## Tree
 |  |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -359,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
