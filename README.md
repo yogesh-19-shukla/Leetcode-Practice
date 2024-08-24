@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0695-max-area-of-island](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 ## Two Pointers
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -368,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Tree
@@ -440,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 ## String Matching
 |  |
 | ------- |
