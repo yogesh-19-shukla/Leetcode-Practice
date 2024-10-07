@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -324,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -439,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0937-online-stock-span) |
 ## Union Find
 |  |
