@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0242-valid-anagram) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0455-assign-cookies) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0202-happy-number) |
 | [3462-vowels-game-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Combinatorics
 |  |
