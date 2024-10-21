@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0695-max-area-of-island](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1036-rotting-oranges) |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0937-online-stock-span) |
 ## String
 |  |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
