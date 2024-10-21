@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0155-min-stack) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0072-edit-distance) |
