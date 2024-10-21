@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0057-insert-interval) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0118-pascals-triangle) |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -321,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
@@ -358,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
