@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
@@ -270,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0792-binary-search) |
@@ -282,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0268-missing-number) |
 | [3462-vowels-game-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Combinatorics
 |  |
@@ -467,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0338-counting-bits) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Brainteaser
