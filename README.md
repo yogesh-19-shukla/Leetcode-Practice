@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0312-burst-balloons) |
+| [0338-counting-bits](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Sorting
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0338-counting-bits) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Brainteaser
 |  |
