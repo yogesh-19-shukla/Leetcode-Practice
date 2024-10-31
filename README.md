@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0792-binary-search) |
@@ -500,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
