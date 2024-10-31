@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1036-rotting-oranges) |
+| [1127-last-stone-weight](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
