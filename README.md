@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0338-counting-bits) |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
@@ -502,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
@@ -521,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
