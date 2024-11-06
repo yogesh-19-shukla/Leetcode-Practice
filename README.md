@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0567-permutation-in-string) |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0695-max-area-of-island) |
@@ -525,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -550,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -593,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 ## Data Stream
 |  |
 | ------- |
