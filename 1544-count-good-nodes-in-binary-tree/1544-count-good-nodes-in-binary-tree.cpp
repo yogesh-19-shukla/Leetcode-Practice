@@ -17,12 +17,12 @@ public:
         return ans;
     }
 
-    void f(TreeNode* root, int msf, int &ans)
-    {
-        if(root==NULL)  return;
-        if(root->val>=msf)   ans++;
-        msf = max(msf,root->val);
-        f(root->left,msf,ans);
-        f(root->right,msf,ans);
+    void f(TreeNode* root,int msf, int &ans){
+        if(!root)  return;
+        if(root->val>=msf){
+            ans++;
+        }
+        f(root->left,max(msf,root->val),ans);
+        f(root->right,max(msf,root->val),ans);
     }
 };
