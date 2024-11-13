@@ -12,49 +12,42 @@ public:
 
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
-        ostringstream out;
-        encode(root, out);
-        return out.str();
+        if(!root)   return "NULL,";
+        string ans = to_string(root->val) + "," + serialize(root->left) + serialize(root->right);
+        return ans;
     }
 
     // Decodes your encoded data to tree.
     TreeNode* deserialize(string data) {
-        istringstream in(data);
-        return decode(in);
-    }
-    
-private:
-    
-    void encode(TreeNode* root, ostringstream& out) {
-        if (root == NULL) {
-            out << "N ";
-            return;
+        string s;
+        queue<string>q;
+        for(int i=0;i<data.size();i++)
+        {
+            if(data[i]==','){
+                q.push(s);
+                s="";
+                continue;
+            }
+            s+=data[i];
         }
-        
-        out << root->val << " ";
-        
-        encode(root->left, out);
-        encode(root->right, out);
+        if(s.size()!=0)  q.push(s);
+        return f(q);
     }
-    
-    TreeNode* decode(istringstream& in) {
-        string value = "";
-        in >> value;
-        
-        if (value == "N") {
-            return NULL;
-        }
-        
-        TreeNode* root = new TreeNode(stoi(value));
-        
-        root->left = decode(in);
-        root->right = decode(in);
-        
-        return root;
-    }
-    
-};
 
+    TreeNode* f(queue<string>&q)
+    {
+        string s = q.front();  q.pop();
+        if(s=="NULL")  return NULL;
+        TreeNode* node = new TreeNode(stoi(s));
+        node->left = f(q);
+        node->right = f(q);
+        return node;
+    }
+
+
+
+
+};
 
 // Your Codec object will be instantiated and called as such:
 // Codec ser, deser;
