@@ -16,19 +16,18 @@ public:
         inorder(root,nums);
         int i = 0;
         int j = nums.size()-1;
-        while(i<j)
-        {
+        while(i<j){
             int sum = nums[i] + nums[j];
-            if(sum>k)  j--;
-            else if(sum<k)  i++;
+            if(sum<k) i++;
+            else if(sum>k)  j--;
             else return true;
         }
-        return false;
+    return false;
     }
 
-    void inorder(TreeNode* root, vector<int>& nums)
+    void inorder(TreeNode* root,vector<int>& nums)
     {
-        if(root==NULL)  return;
+        if(!root)  return;
         inorder(root->left,nums);
         nums.push_back(root->val);
         inorder(root->right,nums);
