@@ -12,16 +12,16 @@
 class Solution {
 public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        int i=0;
-        return build(preorder,i,INT_MAX);
+        int i = 0;
+        return f(preorder,i,INT_MAX);
     }
 
-     TreeNode* build(vector<int>& preorder,int& i,int bound)
-     {
+    TreeNode* f(vector<int>& preorder,int &i, int bound)
+    {
         if(i==preorder.size() || preorder[i]>bound)   return NULL;
-        TreeNode* root = new TreeNode(preorder[i++]);
-        root->left = build(preorder,i,root->val);
-        root->right = build(preorder,i,bound);
-        return root;
-     }
+        TreeNode* node = new TreeNode(preorder[i++]);
+        node->left = f(preorder,i,node->val);
+        node->right = f(preorder,i,bound);
+        return node;
+    }
 };
