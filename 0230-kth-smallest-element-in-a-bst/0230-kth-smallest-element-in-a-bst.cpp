@@ -12,20 +12,20 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        int ks = INT_MAX;
-        f(root,ks,k);
+        int cnt = 0;
+        int ks = INT_MIN;
+        f(root,cnt,ks,k);
         return ks;
     }
 
-    void f(TreeNode* root, int &ks ,int &k)
-    {
-        if(root==NULL)  return;
-        f(root->left,ks,k);
-        k--;
-        if(k==0){
-            ks = min(ks,root->val);
+    void f(TreeNode* root, int &cnt, int &ks,int k){
+        if(!root || cnt>k)  return;
+        f(root->left,cnt,ks,k);
+        cnt++;
+        if(cnt==k){
+            ks = root->val;
             return;
         }
-        f(root->right,ks,k);
+        f(root->right,cnt,ks,k);
     }
 };
