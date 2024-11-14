@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -574,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -615,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -649,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
 | ------- |
