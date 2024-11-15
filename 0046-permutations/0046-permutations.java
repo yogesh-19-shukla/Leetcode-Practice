@@ -1,31 +1,24 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-    
-    List<List<Integer>> resultList = new ArrayList<>();
-    backtrack(resultList, new ArrayList<>(), nums);
-    return resultList;
-    }
-    void backtrack(List<List<Integer>> resultList,
-                         ArrayList<Integer> tempList, int[] nums) {
-    // If we match the length, it is a permutation
-    if (tempList.size() == nums.length) {
-      resultList.add(new ArrayList<>(tempList));
-      return;
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> tmp = new ArrayList<>();
+        f(ans,tmp,nums);
+        return ans;
     }
 
-    for (int number : nums) {
-      // Skip if we get same element
-      if (tempList.contains(number))
-        continue;
-
-      // Add the new element
-      tempList.add(number);
-
-      // Go back to try other element
-      backtrack(resultList, tempList, nums);
-
-      // Remove the element
-      tempList.remove(tempList.size() - 1);
+    void f(List<List<Integer>> ans,List<Integer> tmp,int[] nums)
+    {
+        if(tmp.size() == nums.length)
+        {
+            ans.add(new ArrayList<>(tmp));
+            return;
+        }
+        for(int num: nums)
+        {
+            if(tmp.contains(num))  continue;
+            tmp.add(num);
+            f(ans,tmp,nums);
+            tmp.remove(tmp.size()-1);
+        }
     }
-  }
 }
