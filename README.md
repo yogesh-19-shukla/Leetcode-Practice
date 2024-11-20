@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
