@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0739-daily-temperatures) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -743,4 +745,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
