@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0747-min-cost-climbing-stairs) |
