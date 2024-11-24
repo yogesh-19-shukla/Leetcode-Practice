@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0937-online-stock-span) |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [3462-vowels-game-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
@@ -527,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Breadth-First Search
 |  |
