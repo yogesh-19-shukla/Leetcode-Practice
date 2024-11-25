@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Sorting
 |  |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0768-partition-labels) |
+| [1250-longest-common-subsequence](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
 | [3462-vowels-game-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
