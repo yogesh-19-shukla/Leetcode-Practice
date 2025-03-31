@@ -1,34 +1,19 @@
 class Solution {
 public:
-    bool isEqual(vector<int>v1,vector<int>v2){
-        for(int i=0;i<26;i++){
-            if(v1[i]!=v2[i])  return false;
-        }
-        return true;
-    }
-
     vector<int> findAnagrams(string s, string p) {
-        int n = s.length();
-        int m = p.length();
-        if(n<m)  return {};
+        int n = s.size();
+        int m = p.size();
+        if(m>n)  return {};
         vector<int> v1(26,0);
         vector<int> v2(26,0);
-        vector<int>res;
-        for(auto it: p)   v1[it-'a']++;
-        int i =0;
-        int j=0;
-        while(j<n){
-            v2[s[j]-'a']++;
-            
-            if(j-i+1==m){
-                if(isEqual(v1,v2))   res.push_back(i);
-            }
-            if(j-i+1<m)  j++;
-            else{
-                v2[s[i]-'a']--;
-                i++;
-                j++;
-            }
+        vector<int> res;
+        for(auto c: p)   v1[c-'a']++;
+        for(int i=0;i<m;i++)   v2[s[i]-'a']++;
+        if(v1==v2)  res.push_back(0);
+        for(int i=m;i<n;i++){
+            v2[s[i]-'a']++;
+            v2[s[i-m]-'a']--;
+            if(v1==v2)   res.push_back(i-m+1);
         }
         return res;
     }
