@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0876-hand-of-straights) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Matrix
 |  |
 | ------- |
@@ -504,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0768-partition-labels) |
 | [1170-shortest-common-supersequence](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3462-vowels-game-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
