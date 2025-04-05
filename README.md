@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
 |  |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
 |  |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -567,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Breadth-First Search
 |  |
