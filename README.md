@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0967-minimum-falling-path-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Divide and Conquer
@@ -563,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0876-hand-of-straights) |
+| [0917-boats-to-save-people](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Breadth-First Search
 |  |
