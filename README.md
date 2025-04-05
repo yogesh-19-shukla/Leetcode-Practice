@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -381,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Math
 |  |
 | ------- |
