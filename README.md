@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Math
 |  |
@@ -804,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
@@ -820,6 +823,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Simulation
 |  |
