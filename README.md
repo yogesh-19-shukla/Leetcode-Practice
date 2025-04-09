@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0966-binary-subarrays-with-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1036-rotting-oranges) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0876-hand-of-straights) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0966-binary-subarrays-with-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Matrix
@@ -801,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0966-binary-subarrays-with-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
@@ -816,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Simulation
 |  |
