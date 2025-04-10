@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1370-count-number-of-nice-subarrays](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1370-count-number-of-nice-subarrays](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Matrix
 |  |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Combinatorics
 |  |
@@ -812,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
@@ -830,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Simulation
 |  |
