@@ -541,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0812-rotate-string) |
 | [1170-shortest-common-supersequence](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -805,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
