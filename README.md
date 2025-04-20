@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1675-magnetic-force-between-two-balls](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1675-magnetic-force-between-two-balls) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2737-row-with-maximum-ones](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2737-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/2737-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
