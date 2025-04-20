@@ -8,11 +8,11 @@ public:
         while(low<=high){
             int mid = low + (high-low)/2;
             if(func(position,m,mid)){
-                res = mid;
+                //res = mid;
                 low = mid+1;
             }else high = mid - 1;
         }
-        return res;
+        return high;
     }
 
     bool func(vector<int>& position, int m, int force){
