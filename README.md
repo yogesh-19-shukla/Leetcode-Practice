@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1582-design-browser-history](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1582-design-browser-history) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1646-kth-missing-positive-number) |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -537,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1582-design-browser-history](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1582-design-browser-history) |
 ## String
 |  |
 | ------- |
@@ -582,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1023-time-based-key-value-store) |
+| [1582-design-browser-history](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -601,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1582-design-browser-history) |
 ## Greedy
 |  |
 | ------- |
@@ -823,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/yogesh-19-shukla/Leetcode-Practice/tree/master/1582-design-browser-history) |
 ## Union Find
 |  |
 | ------- |
