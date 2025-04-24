@@ -4,7 +4,6 @@ public:
     {
         ListNode* prev=NULL;
         ListNode* curr=NULL;
-        //ListNode* nxt=NULL;
         
         while(head)
         {
@@ -20,7 +19,7 @@ public:
         
         //step 1 - using slow and fast pointer approach to find the mid of the list
         ListNode* slow=head;
-        ListNode* fast=head->next;
+        ListNode* fast=head;
         
         while(fast and fast->next)
         {
