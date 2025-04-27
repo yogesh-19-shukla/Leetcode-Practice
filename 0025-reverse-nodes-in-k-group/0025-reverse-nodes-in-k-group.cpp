@@ -12,14 +12,16 @@ class Solution {
 private:
     ListNode* reverselist(ListNode* head)
     {
-        ListNode* curr = head;
+ListNode* cur = NULL;
         ListNode* prev = NULL;
-        while(curr!=NULL){
-            ListNode* front = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = front;
+
+        while(head != NULL){
+           cur = head;
+           head = head->next;
+           cur->next = prev;
+           prev = cur;
         }
+
         return prev;
     }
 private:
@@ -48,6 +50,7 @@ public:
         ListNode* nextNode = kthnode->next;
         kthnode->next = NULL;
         reverselist(temp);
+        //for 1st group 
         if(temp == head){
             head = kthnode;
         }else{
